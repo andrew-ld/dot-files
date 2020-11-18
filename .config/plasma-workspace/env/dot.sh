@@ -1,0 +1,10 @@
+#! /bin/sh
+
+export RADV_PERFTEST=aco
+export VAAPI_MPEG4_ENABLED=true
+export WGL_SWAP_INTERVAL=1
+export MESA_GLSL_CACHE_MAX_SIZE=2G
+
+export KDE_NO_IPV6=1
+export PLASMA_PRELOAD_POLICY=aggressive
+export KWIN_TRIPLE_BUFFER=1
